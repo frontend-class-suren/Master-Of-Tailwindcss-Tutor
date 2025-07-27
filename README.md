@@ -5,7 +5,7 @@
 
 
 
-Throughout this course, you will construct two fascinating projects as you progress from the basics of Tailwind CSS to more complex ideas. First, you'll master the fundamentals of Tailwind CSS and how to design your HTML elements by using utility classes efficiently.
+# Throughout this course, you will construct two fascinating projects as you progress from the basics of Tailwind CSS to more complex ideas. First, you'll master the fundamentals of Tailwind CSS and how to design your HTML elements by using utility classes efficiently.
 
 
 
@@ -13,21 +13,21 @@ You'll develop two real-world projects from start with practical examples and ha
 
 
 
-#Key Features:
+# Key Features:
 
-Full explanation of all topics related to Tailwind CSS, from fundamentals to advanced ideas.
+# Full explanation of all topics related to Tailwind CSS, from fundamentals to advanced ideas.
 
-Two full project builds using a hands-on approach.
+# Two full project builds using a hands-on approach.
 
-Build an E-Commerce Website.
+# Build an E-Commerce Website.
 
-Learn how to design a navigation bar.
+# Learn how to design a navigation bar.
 
-Real-world applications and applicable examples.
+# Real-world applications and applicable examples.
 
-Learn optimization strategies and best practices.
+# Learn optimization strategies and best practices.
 
-Come along on this trip to become an expert in Tailwind CSS and improve your web development abilities!
+# Come along on this trip to become an expert in Tailwind CSS and improve your web development abilities!
 
 
 
