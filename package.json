@@ -1,0 +1,26 @@
+{
+  "name": "master-of-tailwindcss-tutor",
+  "version": "1.0.0",
+  "description": "Thank you for visiting the Tailwind CSS Mega Course! This in-depth course covers all you need to know whether you're a novice trying to learn the fundamentals or an experienced developer hoping to learn advanced approaches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend-class-suren/Master-Of-Tailwindcss-Tutor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/frontend-class-suren/Master-Of-Tailwindcss-Tutor/issues"
+  },
+  "homepage": "https://github.com/frontend-class-suren/Master-Of-Tailwindcss-Tutor#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11"
+  }
+}
